@@ -1,0 +1,14 @@
+{
+  "name": "tennis-court",
+  "version": "1.0.0",
+  "description": "A robot will query available tennis courts",
+  "main": "index.js",
+  "repository": "https://github.com/RAIN-JIANGRAN/tennis-court.git",
+  "author": "rain",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.21.0",
+    "form-data": "^3.0.0"
+  }
+}
